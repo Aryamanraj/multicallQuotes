@@ -16,7 +16,7 @@ To use this script, follow the steps below:
 
 ## Code Execution
 #### Running Brownie Script
-![alt text](https://github.com/Aryamanraj/multicallQuotes/files//image1.png)
+![alt text](https://github.com/Aryamanraj/multicallQuotes/files/image1.png)
 
 
 ## Code Breakdown
