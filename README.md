@@ -15,9 +15,11 @@ To use this script, follow the steps below:
 5. Run `brownie run scripts/multicall.py --network mainnet` in the terminal to retrieve the price data.
 
 ## Code Execution
-#### Running Brownie Script
-![alt text](https://github.com/Aryamanraj/multicallQuotes/files/image1.png)
+#### Running Brownie Script:
+![alt text](https://github.com/Aryamanraj/multicallQuotes/blob/master/files/img1.png)
 
+#### Passing down choices and Execution result:
+![alt text](https://github.com/Aryamanraj/multicallQuotes/blob/master/files/img2.png)
 
 ## Code Breakdown
 The code contains three functions:
