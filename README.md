@@ -21,6 +21,9 @@ To use this script, follow the steps below:
 #### Passing down choices and Execution result:
 ![alt text](https://github.com/Aryamanraj/multicallQuotes/blob/master/files/img2.png)
 
+#### Clip:
+![alt text](https://github.com/Aryamanraj/multicallQuotes/blob/master/files/img3.gif)
+
 ## Code Breakdown
 The code contains three functions:
 - `price(link)` takes a link as an argument and returns a smart contract instance of the AggregatorV3Interface using the ABI in the code.
