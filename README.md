@@ -10,7 +10,7 @@ The script requires the following to be installed:
 To use this script, follow the steps below:
 1. Clone or download the repository.
 2. Open the terminal and navigate to the repository folder.
-3. Run `main()` in the terminal to retrieve the price data.
+3. Run `brownie run scripts/multicall.py --network mainnet` in the terminal to retrieve the price data.
 
 ## Code Breakdown
 The code contains three functions:
