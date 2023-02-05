@@ -4,7 +4,7 @@ This is a simple script that retrieves price data from a list of selected crypto
 
 ## Prerequisites
 The script requires the following to be installed:
-- [Brownie](https://brownie.readthedocs.io/en/stable/index.html)
+- [Brownie](https://eth-brownie.readthedocs.io/en/stable/install.html)
 
 ## Usage
 To use this script, follow the steps below:
