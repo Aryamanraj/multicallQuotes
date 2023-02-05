@@ -10,7 +10,9 @@ The script requires the following to be installed:
 To use this script, follow the steps below:
 1. Clone or download the repository.
 2. Open the terminal and navigate to the repository folder.
-3. Run `brownie run scripts/multicall.py --network mainnet` in the terminal to retrieve the price data.
+3. Run `pip install --no-cache-dir -r requirements.txt` to download all requirements.
+4. Run `nano .env` and paste `export WEB3_INFURA_PROJECT_ID="YOUR_INFURA_API_CODE"`
+5. Run `brownie run scripts/multicall.py --network mainnet` in the terminal to retrieve the price data.
 
 ## Code Breakdown
 The code contains three functions:
