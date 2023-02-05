@@ -14,6 +14,11 @@ To use this script, follow the steps below:
 4. Run `nano .env` and paste `export WEB3_INFURA_PROJECT_ID="YOUR_INFURA_API_CODE"`
 5. Run `brownie run scripts/multicall.py --network mainnet` in the terminal to retrieve the price data.
 
+## Code Execution
+#### Running Brownie Script
+![alt text](https://github.com/Aryamanraj/multicallQuotes/files//image1.png)
+
+
 ## Code Breakdown
 The code contains three functions:
 - `price(link)` takes a link as an argument and returns a smart contract instance of the AggregatorV3Interface using the ABI in the code.
