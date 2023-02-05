@@ -27,7 +27,7 @@ def masterlist(listing):
     
 
 def main():
-    _inputer = input("Enter the numbers you want to check: \n0. USDC/ETH\n1. BTC/USD\n2. BUSD/ETH\n3. CTSI/ETH\n4. DAI/ETH\n")
+    _inputer = input("Enter the numbers you want to check: \n0. USDC/ETH\n1. BTC/USD\n2. BUSD/ETH\n3. CTSI/ETH\n4. DAI/ETH\nEnter your options: ")
     inputer = _inputer.replace(" ", "")
     listingg_ = list(inputer)
     lst = masterlist(listingg_)
