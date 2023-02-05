@@ -22,7 +22,7 @@ To use this script, follow the steps below:
 ![alt text](https://github.com/Aryamanraj/multicallQuotes/blob/master/files/img2.png)
 
 #### Clip:
-![alt text](https://github.com/Aryamanraj/multicallQuotes/blob/master/files/img3.gif)
+![alt text](https://github.com/Aryamanraj/multicallQuotes/blob/master/files/gif3.gif)
 
 ## Code Breakdown
 The code contains three functions:
